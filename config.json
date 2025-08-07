@@ -1,0 +1,19 @@
+{
+  "obs": {
+    "path": "C:\\Program Files\\obs-studio\\bin\\64bit\\obs64.exe",
+    "auto_start": false,
+    "websocket_host": "localhost",
+    "websocket_port": 4455,
+    "websocket_password": null
+  },
+  "capture": {
+    "default_interface": "全部接口",
+    "filter_expression": "tcp port 1935 or tcp port 443 or tcp port 80"
+  },
+  "ui": {
+    "auto_apply_stream_settings": true,
+    "window_geometry": "1000x700"
+  },
+  "obs_path": "E:\\YT\\obs-studio\\bin\\64bit\\obs64.exe",
+  "live_companion_path": null
+}
